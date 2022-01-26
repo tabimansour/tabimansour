@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Theodor Abi-Mansour a.k.a. @tabimansour
 - 👀 I’m interested in PHP and Laravel mostly
 - 🌱 I’m always trying to stay updated
-- 💞️ I’m looking to collaborate on Laravel Applications and/or Plugins
+- 💞️ I’m looking to collaborate on Laravel Applications and/or Packages
 - 📫 You can reach me by email/Skype: theodor@abimansour.com
 - 📫 or LinkedIN: https://www.linkedin.com/in/theodorabimansour/
